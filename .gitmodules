@@ -1,0 +1,6 @@
+[submodule "Server_6_25_2022_Server_Junction/assets/ezlibs-assets"]
+	path = Server_6_25_2022_Server_Junction/assets/ezlibs-assets
+	url = https://github.com/Keristero/ezlibs-assets
+[submodule "Server_6_25_2022_Server_Junction/scripts/ezlibs-scripts"]
+	path = Server_6_25_2022_Server_Junction/scripts/ezlibs-scripts
+	url = https://github.com/Keristero/ezlibs-scripts
