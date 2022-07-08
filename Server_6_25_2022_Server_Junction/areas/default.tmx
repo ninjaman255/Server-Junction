@@ -53,7 +53,7 @@
    </properties>
   </object>
   <object id="53" name="BN3 Sign" gid="14" x="462" y="550" width="55" height="53"/>
-  <object id="54" name="Bn3" gid="2" x="544" y="576" width="61" height="32">
+  <object id="54" name="Bn3" type="Server Warp" gid="2" x="544" y="576" width="61" height="32">
    <properties>
     <property name="Address" value="150.136.139.228"/>
     <property name="Direction" value="Down Right"/>
@@ -62,18 +62,20 @@
   </object>
   <object id="63" gid="15" x="462" y="422" width="55" height="53"/>
   <object id="65" gid="16" x="462" y="166" width="55" height="53"/>
-  <object id="66" name="BN2" gid="2" x="544" y="448" width="61" height="32">
+  <object id="66" name="BN2" type="Server Warp" gid="2" x="544" y="448" width="61" height="32">
    <properties>
     <property name="Address" value="150.136.139.228"/>
     <property name="Direction" value="Down Right"/>
     <property name="Port" value="2000"/>
+    <property name="Warp In" type="bool" value="true"/>
    </properties>
   </object>
-  <object id="68" name="Central" gid="2" x="544" y="192" width="61" height="32">
+  <object id="68" name="Central" type="Server Warp" gid="2" x="544" y="192" width="61" height="32">
    <properties>
     <property name="Address" value="158.101.96.179"/>
     <property name="Direction" value="Down Right"/>
     <property name="Port" value="3066"/>
+    <property name="Warp In" type="bool" value="true"/>
    </properties>
   </object>
   <object id="69" gid="12" x="456" y="544" width="63" height="72"/>
@@ -99,11 +101,12 @@
    </properties>
    <point/>
   </object>
-  <object id="84" name="BN5" gid="2" x="544" y="320" width="61" height="32">
+  <object id="84" name="BN5" type="Server Warp" gid="2" x="544" y="320" width="61" height="32">
    <properties>
     <property name="Address" value="150.136.139.228"/>
     <property name="Direction" value="Down Right"/>
     <property name="Port" value="5000"/>
+    <property name="Warp In" type="bool" value="true"/>
    </properties>
   </object>
   <object id="82" gid="26" x="462" y="294" width="55" height="53"/>
@@ -224,30 +227,33 @@
 </data>
  </layer>
  <objectgroup id="14" name="Object Layer 5" offsetx="0" offsety="-64">
-  <object id="73" name="Shanghai" gid="2" x="288" y="512" width="61" height="32">
+  <object id="73" name="Shanghai" type="Server Warp" gid="2" x="288" y="512" width="61" height="32">
    <properties>
     <property name="Address" value="150.136.139.228"/>
     <property name="Direction" value="Up Right"/>
     <property name="Port" value="2500"/>
+    <property name="Warp In" type="bool" value="true"/>
    </properties>
   </object>
   <object id="74" gid="12" x="192" y="480" width="63" height="72"/>
-  <object id="75" name="ClubPenguin" gid="2" x="288" y="256" width="61" height="32">
+  <object id="75" name="ClubPenguin" type="Server Warp" gid="2" x="288" y="256" width="61" height="32">
    <properties>
     <property name="Address" value="142.93.58.233"/>
-    <property name="Direction" value="Up Left"/>
+    <property name="Direction" value="Down Left"/>
     <property name="Port" value="8765"/>
+    <property name="Warp In" type="bool" value="true"/>
    </properties>
   </object>
   <object id="76" gid="12" x="192" y="224" width="63" height="72"/>
   <object id="77" gid="24" x="198" y="486" width="55" height="53"/>
   <object id="78" gid="25" x="198" y="230" width="55" height="53"/>
   <object id="81" gid="12" x="64" y="344" width="63" height="72"/>
-  <object id="67" name="YUM" gid="2" x="160" y="384" width="61" height="32">
+  <object id="67" name="YUM" type="Server Warp" gid="2" x="160" y="384" width="61" height="32">
    <properties>
     <property name="Address" value="keristero.xyz"/>
     <property name="Direction" value="Down Right"/>
     <property name="Port" value="8765"/>
+    <property name="Warp In" type="bool" value="true"/>
    </properties>
   </object>
   <object id="64" gid="17" x="70" y="350" width="55" height="53"/>
