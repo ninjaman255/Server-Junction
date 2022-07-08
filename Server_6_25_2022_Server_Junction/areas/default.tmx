@@ -106,6 +106,7 @@
     <property name="Port" value="5000"/>
    </properties>
   </object>
+  <object id="82" gid="26" x="462" y="294" width="55" height="53"/>
  </objectgroup>
  <layer id="7" name="Tile Layer 2" width="27" height="24" offsetx="0" offsety="-16">
   <data encoding="csv">
@@ -250,6 +251,5 @@
    </properties>
   </object>
   <object id="64" gid="17" x="70" y="350" width="55" height="53"/>
-  <object id="82" gid="26" x="526" y="358" width="55" height="53"/>
  </objectgroup>
 </map>
