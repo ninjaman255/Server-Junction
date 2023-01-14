@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.5" tiledversion="1.7.0" name="AdvertisingTemplateShanghaiIceberg" tilewidth="55" tileheight="53" tilecount="2" columns="1" objectalignment="top">
- <image source="AdvertisingTemplateShanghaiIceberg.png" width="55" height="125"/>
+<tileset version="1.8" tiledversion="1.8.6" name="AdvertisingTemplateShanghaiIceberg" tilewidth="63" tileheight="72" tilecount="2" columns="1" objectalignment="top">
+ <grid orientation="orthogonal" width="55" height="53"/>
+ <image source="AdvertisingTemplateShanghaiIceberg.png" width="63" height="144"/>
 </tileset>
