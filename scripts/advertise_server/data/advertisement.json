@@ -1,0 +1,18 @@
+{
+    "listservers":{
+        "main":"http://www.keristero.xyz/server_list/"
+    },
+    "advertisements":[
+        {
+            "unique_server_id":"Server-Junction",
+            "name":"Server-Junction",
+            "description":"Server Junction that connects to some servers, WIP",
+            "tags":["pvp"],
+            "address":"159.223.165.219:7777",
+            "data":"",
+            "icon":"advertisement.png",
+            "color":"rgb(160,160,160)",
+            "advertise_map":true
+        }
+    ]
+}
