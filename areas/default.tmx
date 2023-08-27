@@ -6,7 +6,7 @@
   <property name="Background Texture" value="/server/assets/custom/backgrounds/DenArea/denAreabg.png"/>
   <property name="Background Vel X" type="float" value="0.1"/>
   <property name="Background Vel Y" type="float" value="0.1"/>
-  <property name="Name" value="N0M4nsL4nd"/>
+  <property name="Name" value="Junction"/>
   <property name="Song" value="/server/assets/music/1.01 THEME OF ROCKMAN EXE.ogg"/>
  </properties>
  <tileset firstgid="1" source="../assets/tiles/warp.tsx"/>
